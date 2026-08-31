@@ -1,8 +1,6 @@
 ## Bruno Marino
 <h2 align="center">Olá! Sejam bem vindos ao meu Github!</h2>
 
-# Bruno Marino
-
 Sou estudante de **Ciência de Dados pela UNIVESP e pela EBAC**, apaixonado por transformar dados em informações que apoiem a tomada de decisão.
 
 Ao longo da minha formação, venho desenvolvendo projetos práticos em **Análise de Dados, Business Intelligence e Machine Learning**, utilizando ferramentas como:
